@@ -1,8 +1,6 @@
 gulp-wisp
 =========
 
-## Information
-
 <table>
 <tr> 
 <td>Package</td><td>gulp-wisp</td>
