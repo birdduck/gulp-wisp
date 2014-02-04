@@ -1,0 +1,13 @@
+{
+  "name": "gulp-wisp",
+  "version": "0.0.1",
+  "description": "Wisp plugin for gulp",
+  "main": "lib/index.js",
+  "author": "Birdduck Software",
+  "license": "ISC",
+  "devDependencies": {
+    "through2": "0.4.1",
+    "gulp-util": "2.2.14",
+    "wisp": "0.9.0-beta3"
+  }
+}
